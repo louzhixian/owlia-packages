@@ -3653,6 +3653,23 @@ SHA256: 24bb6c75cf45ae9d8030bbe4c633dc7ac565ab1b147f8d5eef67fe5c6c67884c
 Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 Description: Tools for NSS
 
+Package: openclaw
+Version: 2026.3.12
+Architecture: aarch64
+Maintainer: @lay2dev
+Installed-Size: 425328
+Depends: nodejs (>= 22)
+Filename: pool/main/openclaw_2026.3.12_aarch64.deb
+Size: 45300796
+MD5sum: 46e204b3048176b78d9fdc66483144ba
+SHA1: 1cd26338cbb9e0611c37c1dd27b5a5fb11df595a
+SHA256: c51d39677f64a82f30f815efac87566ca801c95f20080222b0299a715f24736d
+Homepage: https://openclaw.ai
+Description: OpenClaw AI assistant (portable, all native modules bundled)
+ OpenClaw portable package for Termux/Android aarch64.
+ Includes all Node.js native modules for arm64.
+ No npm install required.
+
 Package: openexr
 Version: 3.4.0-1
 Architecture: aarch64

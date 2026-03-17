@@ -2,13 +2,13 @@ Origin: BotDrop
 Label: BotDrop Packages
 Suite: stable
 Codename: stable
-Date: Fri, 13 Mar 2026 13:01:05 +0000
+Date: Tue, 17 Mar 2026 01:12:06 +0000
 Architectures: aarch64
 Components: main
 Description: BotDrop custom packages
 MD5Sum:
- 915ae550c3f24980bb7ac6fa89fc95d6 153190 main/binary-aarch64/Packages
- 83b4d35fd01d8ff9fc953938c6feafdd 50425 main/binary-aarch64/Packages.gz
+ bd854490afb625448e25faaaf9bee932 153778 main/binary-aarch64/Packages
+ 6040947bcb3dea3672f5eeecd57a5e90 50678 main/binary-aarch64/Packages.gz
 SHA256:
- d6d29ff496adad15a4282b0908aefaf19e707558e5af26c35f1a092c69feb8db 153190 main/binary-aarch64/Packages
- bf17c2f82e55c4ee1356271c6cfab51e3a5e8a32682435572197ade74170e4c7 50425 main/binary-aarch64/Packages.gz
+ b28fd164b078a0ded4f78008191b914037d5e4d73b3a9bda1db3d465bc55eb82 153778 main/binary-aarch64/Packages
+ fdbb963c7f7c15deb7cc6a6c666082f194ef57b96bc5e5c42bd7f9918ce066d4 50678 main/binary-aarch64/Packages.gz
